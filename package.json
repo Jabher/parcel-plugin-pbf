@@ -1,0 +1,24 @@
+{
+  "name": "parcel-plugin-pbf",
+  "version": "1.0.0-beta.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Vsevolod Rodionov (@jabher)",
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "plugin",
+    "pbf",
+    "protobuf",
+    "protobuffers",
+    "protocol-buffers",
+    "binary"
+  ],
+  "dependencies": {
+    "pbf": "^3.1.0",
+    "protocol-buffers-schema": "^3.3.2"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "^1.10.3"
+  }
+}
