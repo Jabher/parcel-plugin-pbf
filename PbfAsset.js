@@ -15,6 +15,7 @@ class PbfAsset extends Asset {
 }
 
 Object.defineProperty(PbfAsset.prototype, 'type', {
-  configurable: true,
-  value: 'pbf'
+  value: 'proto'
 })
+
+module.exports = PbfAsset

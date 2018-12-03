@@ -1,3 +1,3 @@
 module.exports = (bundler) => {
-  bundler.addAssetType('pbf', require.resolve('./PbfAsset'));
+  bundler.addAssetType('proto', require.resolve('./PbfAsset'));
 };
