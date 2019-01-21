@@ -1,9 +1,13 @@
 {
   "name": "parcel-plugin-pbf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
   "author": "Vsevolod Rodionov (@jabher)",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jabher/parcel-plugin-pbf.git"
+  },
   "keywords": [
     "parcel",
     "parcel-plugin",
